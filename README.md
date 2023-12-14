@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Pet Store is a Store application that provides various Shopping services and features. This repository contains the source code for the Pet Store application.
+Pet Store is a Store application that provides various Shopping services and features. This repository contains the source code for the [Pet Store application](https://petstore.swagger.io/).
 
 ## Features
 
